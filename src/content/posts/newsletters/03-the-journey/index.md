@@ -1,7 +1,7 @@
 +++
 date = '2025-08-20T21:37:45+01:00'
 draft = false
-title = 'The Journey - Part 3'
+title = 'Project 2'
 language =  "en"
 featured_image = "images/03-newsletter-the-journey.jpg"
 summary = "Iknite Space expresses pride in the growth of their trainees over the past six months, thanks mentors for their support, and highlights upcoming events and project updates, including the achievements of Team CribConnect and trainee Guilene Docine."

@@ -1,7 +1,7 @@
 +++
 date = '2025-07-26T21:37:45+01:00'
 draft = false
-title = 'The Journey'
+title = 'Project 1'
 language =  "en"
 featured_image = "images/02-newsletter-the-journey.jpg"
 summary = "The Iknite Space newsletter showcases trainee growth through a meeting with the European Commission, coursework updates, a presentation on user stories, and highlights Team Qless's app project focused on time management."

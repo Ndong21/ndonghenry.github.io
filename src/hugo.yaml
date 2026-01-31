@@ -89,8 +89,14 @@ params:
   
   p4:
     heading: "From the blog"
+    heading2: "Contact Me"
     content:
       - text: "Checkout my latest blog posts!"
+    
+  p6:
+    heading: "Contact Me"
+    content:
+      - text: "Send a message!"
   p5:
     heading: "Stay Up to Date"
     content:
@@ -103,7 +109,7 @@ params:
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/Iknite-Space'
+      url: 'https://github.com/Ndong21'
     facebook:
       enabled: true
       url: 'https://www.facebook.com/iknite.space/'

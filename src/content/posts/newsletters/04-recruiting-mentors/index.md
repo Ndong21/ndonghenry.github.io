@@ -1,7 +1,7 @@
 +++
 date = '2025-11-14T21:37:45+01:00'
 draft = false
-title = 'Welcome to Iknite Space Cohort 5'
+title = 'Project 3'
 language =  "en"
 featured_image = "images/newsletter-c5-work-session.jpg"
 summary = "Iknite Space is recruting mentors for cohort 5!"
